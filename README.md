@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# My Finance Administrator App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[My Finance Administrator](https://my-finance-administrator.web.app) is your app for tracking expenses and maintaining a household budget The main purpose of the app is to allow you to manage your expenses and income quickly and easily.
 
 ## Available Scripts
 
